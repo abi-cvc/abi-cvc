@@ -15,7 +15,4 @@ jobs:
           github_token: ${{ secrets.STATS_TOKEN }}
           visualization_types: "leaderboard" # Puedes usar "pie" o "bar" también
           output_path: "stats" # Carpeta donde se guardará la imagen
-          bg_color: "0d1117"     # Fondo oscuro oficial de GitHub
-          text_color: "c9d1d9"   # Color de texto gris claro
-          title_color: "58a6ff"  # Azul para los títulos
-          border_color: "30363d" # Color del borde sutil
+          dark_mode: "true" # modo oficial oscuro
