@@ -53,4 +53,4 @@
 ![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-DA1F26?style=for-the-badge&logoColor=white)
 
 ### Tech Stack
-![Lenguajes](stats/leaderboard_by_lines.pgn)
+![Lenguajes](stats/leaderboard_by_lines.png)
