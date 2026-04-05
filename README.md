@@ -51,3 +51,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Visual Paradigm](https://img.shields.io/badge/Visual_Paradigm-DA1F26?style=for-the-badge&logoColor=white)
+
+### Tech Stack
+![Lenguajes](stats/leaderboard_by_lines.pgn)
