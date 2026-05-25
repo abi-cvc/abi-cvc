@@ -8,6 +8,9 @@ permissions:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # Fuerza Node.js 24
+      
     steps:
       - uses: actions/checkout@v4
       - uses: StefVuck/Github-Language-Stats@v1.1.0
